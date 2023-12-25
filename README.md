@@ -4,9 +4,9 @@ Implement proof of stake consensus mechanism in blockchain
 
 $ python Main.py localhost 10001 5000 keys/genesisPrivateKey.pem
 
-$ python Main.py localhost 10002 5001 keys/stakerPrivateKey.pem
+$ python Main.py localhost 10003 5003 keys/stakerPrivateKey.pem
 
-$ python Main.py localhost 10003 5003 
+$ python Main.py localhost 10002 5001
 
 $ python Interaction.py
 
